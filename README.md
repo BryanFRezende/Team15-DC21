@@ -1,4 +1,4 @@
-# UMD Data Challenge 2021 (DC21):
+# UMD Data Challenge 2021 (DC21)
 ### Data Exploration to Cultivate Better Living
 **February 20-27, 2021 | University of Maryland**
 
@@ -13,7 +13,7 @@ The UMD Data Challenge is a one-week competition hosted by the University of Mar
 ### Which dataset did we work on?
 My team chose to analyze dataset **\#5. VeoRide E-scooter Transportation** for the *UMD Department of Transportation Services (DOTS)* The prompt from the Data Challenge website for this dataset:
 
-*The company that provides the e-scooter service in the UMD area, VeoRide Inc., is a mobility service provider that manages their micro mobility fleet through the use of the Mobility Data Standard (MDS). Data generated from individual e-scooters and stored in VeoRide’s computers contain the information necessary for this study. The dataset comprises 62 days (October 2020 and October 2019) of historical data, to include ride counts, event times, trips, routes, and status changes. The Department of Transportation Services would like to know how the publicly available e-scooter service available on campus provided by VeoRide Inc., supplements the campus transportation network. Within the timeframe of the data, there are 14 variables and 40,325 rows of recorded rides.*
+> *The company that provides the e-scooter service in the UMD area, VeoRide Inc., is a mobility service provider that manages their micro mobility fleet through the use of the Mobility Data Standard (MDS). Data generated from individual e-scooters and stored in VeoRide’s computers contain the information necessary for this study. The dataset comprises 62 days (October 2020 and October 2019) of historical data, to include ride counts, event times, trips, routes, and status changes. The Department of Transportation Services would like to know how the publicly available e-scooter service available on campus provided by VeoRide Inc., supplements the campus transportation network. Within the timeframe of the data, there are 14 variables and 40,325 rows of recorded rides.*
 
 ### What did my team accomplish during DC21?
 We provided DOTS with valuable information from the VeoRide scooter data given to us. We learned about unique Python libraries essential to data science and analysis. We formed a strong team and found interesting trends within our analysis. We presented several excellent presentations and were awarded *Best Team Presentation*. We tied with another team (so I suppose you could say we won *1 of 2 of The Best Team Presentations*), but we were still ecstatic to be 1 of 9 winners among the 42 teams. I gave a brief talk on our results to the live-streamed audience, which can be found [here on YouTube](https://youtu.be/Zqz0G1V74Us?t=2884).
